@@ -1,0 +1,8 @@
+[package]
+name = "strings_maps_vecs"
+version = "0.1.0"
+authors = ["Cianidos <nikitosiks338@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+rand = "0.6.5"
